@@ -1,0 +1,8 @@
+com\tovarnitskyi\model\Order.class
+com\tovarnitskyi\model\Car.class
+com\tovarnitskyi\model\Characteristics.class
+com\tovarnitskyi\model\Dealership.class
+com\tovarnitskyi\model\Customer.class
+com\tovarnitskyi\model\Seller.class
+com\tovarnitskyi\App.class
+com\tovarnitskyi\model\Car_has_dealership.class
